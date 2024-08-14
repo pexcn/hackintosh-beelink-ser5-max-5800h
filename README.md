@@ -12,6 +12,7 @@
 | **Audio**    | Realtek ALC897               |
 | **Ethernet** | Realtek RTL8168              |
 | **Wireless** | Intel Wi-Fi 6 AX200          |
+| **SMBIOS**   | `iMac20,1`                   |
 
 ## :unlock: BIOS Settings
 
