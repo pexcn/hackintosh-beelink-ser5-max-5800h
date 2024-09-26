@@ -4,7 +4,7 @@
 
 | **Hardware** | **Detail**                   |
 | ------------ | ---------------------------- |
-| **CPU**      | AMD Ryzen 7 5800H            |
+| **CPU**      | AMD Ryzen 7 5800H Processor  |
 | **GPU**      | AMD Radeon Vega 8            |
 | **RAM**      | Gloway 16GB 3200MHz DDR4 x 2 |
 | **SSD**      | Phison 512GB NVMe SSD        |
