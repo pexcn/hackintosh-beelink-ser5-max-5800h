@@ -1,4 +1,4 @@
-# :green_apple: Hackintosh Beelink SER5 MAX 5800H
+# :apple: Hackintosh Beelink SER5 MAX 5800H
 
 ![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.2-blue?style=flat-square&logo=circle) ![macOS version](https://img.shields.io/badge/macOS-Sonoma-green?style=flat-square&logo=apple)
 
@@ -63,3 +63,4 @@ After update is completed, undo the above changes.
 ## :x: Not Working
 
 - iGPU hardware decode
+- Power button
