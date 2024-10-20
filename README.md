@@ -62,5 +62,4 @@ After update is completed, undo the above changes.
 
 ## :x: Not Working
 
-- Randomly reboot on boot
 - iGPU hardware decode
