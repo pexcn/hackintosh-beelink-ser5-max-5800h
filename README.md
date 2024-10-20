@@ -63,4 +63,4 @@ After update is completed, undo the above changes.
 ## :x: Not Working
 
 - Randomly reboot on boot
-- Random freezes when using dynamic wallpapers or built-in avatars
+- iGPU hardware decode
