@@ -48,6 +48,9 @@ If the installation cannot be completed successfully, try setting `SecureBootMod
    ```sh
    # Enable HiDPI (optional)
    curl -sSL https://github.com/pexcn/hackintosh-beelink-ser5-max-5800h/raw/master/extras/hidpi/enable.sh | sudo sh -
+
+   # Optimize (optional)
+   curl -sSL https://github.com/pexcn/hackintosh-beelink-ser5-max-5800h/raw/master/extras/optimize/pmset.sh | sudo sh -
    ```
 
 ## :rocket: Updating
